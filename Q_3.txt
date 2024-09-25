@@ -1,6 +1,6 @@
 ls
-mkdir <your-name-or-registration-number>
-cd <your-name-or-registration-number>
+mkdir <rishi raj 12212182>
+cd <rishi raj 12212182>
 touch README.md
 cat README.md
 cd ..
