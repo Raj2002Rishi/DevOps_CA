@@ -1,0 +1,15 @@
+git add Cyourname.txt
+git commit -m "Add Cyourname.txt for Feature C"
+git push origin <your-feature-branch>
+
+This command adds the Cyourname.txt file to the staging area, meaning it's now ready to be committed.
+
+git add Cyourname.txt 
+
+
+This command creates a new commit in your Git history with the message "Add Cyourname.txt for Feature C", documenting the changes made for Feature C.
+git commit -m “Add Cyourname.txt for Features C”
+
+This pushes the commit to the remote repository on the specified branch. Replace <your-feature-branch> with the name of your current branch (e.g., featureC).
+
+git push origin <your-feature-branch>
