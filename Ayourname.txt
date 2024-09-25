@@ -1,1 +1,1 @@
-echo "This is Feature A developed by [Your Name]" > Ayourname.txt
+echo "This is Feature A developed by [Rishi Raj]" > Ayourname.txt
